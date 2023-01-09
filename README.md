@@ -8,3 +8,4 @@ List of cute animal
 6. Babi
 7. Tapir
 8. Semut
+9. Kambing
