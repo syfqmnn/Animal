@@ -6,3 +6,5 @@ List of cute animal
 3. Kucing
 5. Siput
 6. Babi
+7. Tapir
+8. Semut
